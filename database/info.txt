@@ -1,1 +1,0 @@
-a:5:{s:4:"name";s:16:"3201083_userinfo";s:4:"user";s:16:"3201083_userinfo";s:8:"password";s:32:"eNywlA2uiDNJe5K4G8ShyTPVaC8jdak4";s:4:"host";s:20:"pdb42.awardspace.net";s:4:"port";i:3306;}
